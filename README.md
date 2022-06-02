@@ -1,4 +1,4 @@
-# Dataset
+# Depression EEG Dataset
 •	Please see “Subject_details.xlsx” for details of below mentioned field.
 
      Data Id: ID of the subject
